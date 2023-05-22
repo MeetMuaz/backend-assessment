@@ -1,0 +1,20 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+*.log.*
+
+# Ignore enviroment file
+.env
+
+# Ignore build output
+dist/
+build/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
