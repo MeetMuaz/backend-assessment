@@ -1,5 +1,5 @@
 ## Backend-assessment API
-🚀 🔥 A RESTful API for blogging platform that allows users to create, read, 
+🚀 🔥 A RESTful API for blogging platform that allows users to create, read, update and delete (CRUD) 📕📗📘📙 blogs, The API also support user authentication and authorization, allowing users to create and manage their own blog.
 
 ## ✨ Features
 
