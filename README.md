@@ -140,5 +140,3 @@ To improve performance and scalability, you can create a cluster with PM2 to run
    Use this command to monitor the cluster and view resource usage.
 
 ---
-
-Feel free to customize the README file further based on your specific project requirements and add any additional information you think is necessary.
